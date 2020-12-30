@@ -1,0 +1,837 @@
+İnternete bağlı cihazlarda 39 saniyede bir ortalama 1 saldırı girişimi gerçekleşir
+scp kopyalacak_dosyanın_adi kullanıcı_adı@host_ismi:kopyalanacağı_yer
+
+blogda paylaşıla bilcelk
+https://blog.sucuri.net/2020/02/website-vulnerability-vs-malware-whats-the-difference.html?utm_source=twitter&utm_medium=blog&utm_campaign=wyatt
+
+DDos ile ilgili güzel yazı reklam var
+https://www.comparitech.com/net-admin/dos-vs-ddos-attacks-differences-prevention/
+
+Yönlendirilen tüm saldırı saldırılarının neredeyse yarısı küçük işletmeleri hedef alıyor
+
+👉  🔗
+
+ Fidye yazılımı saldırılarından, Cryptojackers( Saldırganın sizin izniniz olmadan donanımınızda cryptocurrency(madencilik) yazılımı çalıştırdığı bir saldırıdır), spam gönderenlerin ve DDoS  saldırganlarının yıllardır kullandığı senaryoyu takip ediyor.
+
+Bilgi teknolojilerine yönelik evrensel bir tehdide dönüşen fidye yazılımları (ransomware), en korkulan siber saldırılar arasında ilk sırada yer almaktadır.
+1. SamSam
+Günümüzün en ciddi fidye saldırıları arasında yer alan SamSam üzerinde Sophos’un yaptığı detaylı araştırmalar, durumun düşünülenden çok daha ciddi olduğunu, SamSam’ın şimdiye dek fidye tehdidiyle topladığı paranın 6 milyon dolara yaklaştığını ortaya koymaktadır.
+
+SamSam saldırıları,e-posta mesajları veya diğer yöntemlerle toplu bir şekilde saldırmak yerine kendilerine hedef seçerek manuel bir şekilde saldırı gerçekleştirmektedir.
+Ryuk saldırıları,  kesinti sürelerine toleransı olmayan kuruluşlar olarak seçilmiştir.
+
+Evrensel bir tehdide dönüşen fidye yazılımları (ransomware), en korkulan siber saldırılar arasında yer almaktadır.
+En çok kullanılan 5 fidye yazılımı, saldırı hedefleri ve yöntemleri...
+
+
+
+DNS amplification saldırıları 2018'in üçüncü çeyreğinden 2019'un üçüncü çeyreğine göre %788 arttı.
+Nexusguard güvenlik uzmanları, küresel saldırıların yarısından fazlası Çin, Türkiye veya ABD'de gerçekleştiği bilgisini paylaşmıştır.
+#DNS #WAF #CyberSecurity #CyberSec  #ddos #Flood
+
+https://www.itweb.co.za/content/Olx4z7kgoLb756km
+
+Son yıllarda en çok kullanılan siber saldırılardan 10 tanesi...
+Bilgisayar korsanları her 39 saniyede bir internet bağlantısı olan bilgisayarlara saldırı gerçekleştiriyor.
+
+Son yıllarda en çok kullanılan siber saldırılardan 10 tanesi...
+Bilgisayar korsanları her 39 saniyede bir internet bağlantısı olan bilgisayarlara saldırı gerçekleştiriyor.
+#WAF #CyberSecurity #CyberSec #flood
+https://www.worldatlas.com/articles/10-of-the-most-chilling-cyber-crimes.html
+
+
+
+
+
+MFA, birden fazla kimlik doğrulama yönteminin birlikte kullanımı gerektiren bir sistemdir.
+
+Microsoft, kısa süre önce MFA kullanan hesapların tehlikeye girme olasılığının % 99,9 daha az olduğunun bilgisini paylaşmıştır...
+#MFA #CyberSecurity #CyberSec
+https://gcn.com/articles/2020/01/14/multifactor-authentication-connected-office.aspx
+
+
+Yük dengeleme( Load balancer) işlemi ile web uygulaması, web sitesi, veri tabanı vb. hizmetlerin performans ve güvenirliliği arttırılır.
+
+Yük dengeleme işlemi; web uygulaması veya web sitesine gelen trafiği, sunucular arasında belirli algoritmalar doğrultusunda dağıtarak, aşırı yüklenme problemine çözüm sunmaktadır...
+https://www.serverwatch.com/server-reviews/load-balancing.html
+
+http://www.altosec.com/yuk-dengeleme.html
+#LoadBalancer#CyberSecurity #CyberSec#SiberGuvenlik
+
+
+2018'in ilk yarısındaki DDoS saldırıları, saldırı tepe boyutunda 2017'ye kıyasla% 111 artış kaydetti. — Verizon'un DDoS Trend Raporu 
+
+DDoS,  bir sistemi belirli kapasite sınırlarının üstünde veriye maruz tutma yoluyla düzenlenen saldırılar sonucu kullanıcıların sisteme veya siteye girişinin engellenmesidir.
+
+DDoS saldırıları, günümüz iş dünyasına yönelik en yıkıcı etkiye sahip saldırılarından birisidir.
+
+2019’un son aylarında kamu ve özel sektörde hizmet sağlayan birçok kuruluşa yönelik gerçekleşen DDoS saldırıları, 2020 yılında da etkisini gösterecek. Gerçekleşme maliyetinin ucuz ancak etki alanının geniş olduğu DDoS saldırılarının, hedeflenen internet hizmetine erişimleri etkisiz hale getirerek, kamu ve özel sektördeki birçok kuruluşa ciddi zararlar vermeye devam edeceği öngörülüyor.
+
+2019’un son aylarında kamu ve özel sektörde hizmet sağlayan birçok kuruluşa yönelik gerçekleşen DDoS saldırıları, 2020 yılında etkisini daha fazla göstereceği öngörülüyor.
+
+Verizon'un DDoS Trend Raporuna göre; DDoS saldırıları 2017'ye kıyasla, 2018'in ilk yarısında %111 artış gösterdi.
+#DDoS atakları ve korunma yöntemleri...
+https://blog.eccouncil.org/ddos-mitigation-tips-to-defend/
+👉  http://www.altosec.com/ddos.html
+#CyberSecurity #CyberSec #SiberGuvenlik #flood
+
+Güvenlik duvarları, şirketlerin çoğunluğu için standart bir güvenlik aracıdır, ancak günümüzün değişen tehdit ortamında,
+
+kamu ve özel sektörde 
+
+
+Güvenlik duvarları, kamu ve özel sektör için standart bir güvenlik aracıdır, ancak günümüzde siber saldırıların yöntemleri ve boyutları değişiyor.
+Yeni Nesil Güvenlik Duvarları, uygun koruma sağlayabilen tek güvenlik duvarlarıdır.
+
+Ülkemizde BDDK'nın(Bankacılık Düzenleme ve Denetleme Kurulu) 2007 yılında yayınladığı ve 2010 tarihi itibariyle zorunlu tuttuğu tebliğ ile gündeme gelen güvenlik sistemi, İki faktörlü kimlik doğrulama (2FA) nedir?
+👉 http://www.altosec.com/blog-2fa.html
+
+#CyberSecurity #CyberSec #ransomware
+
+ABD'deki çevrimiçi ve telekomünikasyon hizmetlerindeki ani ve geniş kapsamlı kesintiler, bazılarının bunun koordineli bir saldırı sonucu olduğuna inanmasına neden oldu.
+
+15 Haziran'da ABD'deki telekomünikasyon ve çevrimiçi hizmetlerin yaşadığı ani ve geniş kapsamlı kesintilerin, koordineli bir DDoS saldırısının neden olduğu iddia ediliyor.
+https://www.news.com.au/technology/online/hacking/us-hit-by-ddos-attack-as-tmobile-facebook-fortnite-down/news-story/d41781f7a61fc89283d143ed75add63f
+
+#CyberSecurity #CyberSec #DDoS #SiberGuvenlik
+
+sonrası yayınlanan raporlar
+
+ABD'de büyük bir DDoS saldırısının neden olduğu iddia edilen büyük bir kesinti yaşadı
+
+Uygulamalarınız ve API'larınız en değerli ve korunmasız varlıklarınızdır. Citrix Web App Güvenlik Duvarı, hem bilinen hem de bilinmeyen uygulama saldırılarına karşı koruyarak ve daha hızlı iyileştirme için öngörüler sağlayarak onları güvende tutar.
+
+Web siteleriniz
+
+NG-WAF; gelişmiş tehditleri, kötü amaçlı otomasyon ve Katman 7 saldırılarını durdurmanın yanı sıra, OWASP Top 10 saldırı türleri ve sıfır gün saldırılarına (#ZeroDayAttack) karşı koruma sağlar.
+http://www.altosec.com/ngwaf.html
+#WAF #CyberSecurity #CyberSec #DDoS #SiberGuvenlik
+
+koruma sağlar.
+Tenable Zero-Day (Sıfır Gün Güvenlik Açığı Saldırısı)
+zero day attack
+
+Günümüzde siber saldırılar sürekli gelişiyor, hem ölçek hem de boyutları daha sofistike, daha karmaşık hale gelmiştir. Siber saldırılar, kamu ve özel sektör için maddi ve manevi zararlara neden olmaya devam ediyor. Her 39 saniyede bir siber saldırı gerçekleşiyor ve her saniye 75 veri çalınıyor. Teknolojinin ilerlemesi, çevrimiçi hizmetlerin yaygınlaşması, doğru güvenlik çözümlerinin kullanılmasını zorunlu hale getirmiştir.
+
+Neden Web Uygulaması Güvenlik Duvarına İhtiyacınız Var?
+https://www.talkingcloud.me/post/why-you-need-web-application-firewall
+
+Ürün ve Hizmetler:
+👉http://www.altosec.com/ngwaf.html
+#WAF #CyberSecurity #CyberSec #DDoS #SiberGuvenlik
+
+DNS sunucunuz arızalanırsa veya bir saldırı nedeniyle erişilemez duruma gelirse internet siteniz veya servisleriniz de erişilemez olur. Çoğunlukla DNS sunucuları saldırı hedefi, DNS protokolü de saldırı yolu olarak kullanılmaktadır. DNS güvenliği çok önemlidir ama kurumlar tarafından en göz ardı edilen bölümlerden biridir.
+
+DNS hizmetinde meydana gelen aksamalar, büyük şirketlere binlerce dolar zararlara neden olmaktadır.Çoğunlukla DNS sunucuları saldırı hedefi, DNS protokolü de saldırı yolu olarak kullanılmaktadır.
+http://altosec.com/dnskoruma.html
+ #CyberSecurity #CyberSec #DNS #DnsSec #DDoS
+
+
+
+DDoS ve DOS adı verilen saldırılar ile DNS hizmetinde aksamalar meydana gelmektedir. Bu saldırılar belirli bir sunucuya veya ağa erişimi yavaşlatır ya da tamamen erişilemez hale getirir. Bu aksamalar büyük şirketlere binlerce dolar zararlara neden olur. DNS’nin önemi bu gibi durumlarda ortaya çıkmaktadır.
+En yaygın başka bir saldırı ise, DNS tünelleme(#DnsTunneling) adı verilen veri çalma amaçlı kullanılan DNS saldırılarıdır. Bu tür saldırıların amacı, kişisel ve gizli sayılabilecek her türlü bilgiyi (gizli dosyalar, fikri mülkiyet, mail vb.) çalmaktır. 
+
+DNS'e Yönelik Saldırılar ve Tehlikeleri
+https://securityboulevard.com/2019/10/the-dangers-of-dns-hijacking-ending-cyber-insecurity/
+
+Ürün ve Hizmetler:
+👉 http://www.altosec.com/dnskoruma.html
+
+#DNS #CyberSecurity #CyberSec #DnsSec #DDoS #WAF
+
+DDoS ve DOS adı verilen saldırılar ile DNS hizmetinde aksamalar meydana gelmektedir. Bu saldırılar belirli bir sunucuya veya ağa erişimi yavaşlatır ya da tamamen erişilemez hale getirir. Bu aksamalar büyük şirketlere binlerce dolar zararlara neden olmaktadır.
+
+DNS SaldırısınınTehlikeleri...
+https://securityboulevard.com/2019/10/the-dangers-of-dns-hijacking-ending-cyber-insecurity/
+
+Ürün ve Hizmetler:
+👉 http://www.altosec.com/dnskoruma.html
+
+#DNS #CyberSecurity #CyberSec #DnsSec #DDoS #WAF
+
+DNS hizmetinde meydana aksamalar, büyük şirketlere binlerce dolar zararlara neden olmaktadır.
+
+#LoadBalancing, iş yükünü birden fazla sunucuya dağıtarak web sitelerinin, uygulamaların, veri tabanlarının ve diğer hizmetlerin performansını ve güvenilirliğini artırmak için yüksek kullanılabilir (high availability)altyapıların önemli bir parçasıdır.
+👉http://www.altosec.com/yuk-dengeleme.html
+#CyberSec 
+
+Load balancing (yük dağıtma-dengeleme), gelen trafiği birden fazla sunucuya dağıtarak web sitelerinin, uygulamaların, veri tabanlarının ve diğer hizmetlerin performansını ve güvenilirliğini artırmak için yaygın olarak kullanılan yüksek kullanılabilir (high availability) altyapıların önemli bir parçasıdır...
+Ürün ve Hizmetler:
+👉http://www.altosec.com/yuk-dengeleme.html
+
+#CyberSecurity #CyberSec #LoadBalancing #DNS #WAF 
+
+Bir yük dengeleyici, sunucularınızın önünde bulunur. Sunucularınıza gelen istekleri hız ve kapasite kullanımını en üst düzeye çıkaracak şekilde yerine getirebilecek ve hiçbir sunucunun fazla çalışmamasını sağlayan, performansı düşürebilen tüm sunuculardaki istemci trafiğini yönlendiren “trafik polisi” gibi davranır. 
+
+
+Bir yük dengeleyici, sunucularınızın önünde konumlandırılır. Sunucularınıza gelen istekleri hız ve kapasite kullanımını en üst düzeye çıkaracak
+
+
+
+​Yük dengeleme hizmeti, kullanıcılar ve uygulama arasındaki trafiğin aktif yük dağıtımını yapmaktadır, kullanıcı istekleri en uygun sunucu kaynağına yönlendirilir. Performansı düşürebilecek istemci trafiğini, doğru sunucular üzerine yönlendirerek bir “trafik polisi” gibi davranır.
+http://www.altosec.com/blog-yukdengeleme.html
+
+#CyberSecurity #CyberSec #WAF #LoadBalancing #DNS 
+
+Yayınlanan rapora göre: 2019'daki DDoS saldırılarının karmaşıklığı ve boyutlarının, 2018'e kıyasla önemli ölçüde artış gösterdiği belirtiliyor. DDoS saldırılarının 2019'da kısmen azalmasına rağmen, karmaşıklığı ve boyutlarının önemli ölçüde arttığı belirtilmiştir.
+https://bit.ly/2VbwvyK
+
+#CyberSecurity #CyberSec #WAF #LoadBalancing #DNS 
+
+
+Web Application Firewall (#WAF) kullanımı bazı güvenlik standartları tarafından tavsiye edilmektedir. Bunların başında WAF kullanımını zorunlu tutan #PCI Veri Güvenliği standardı gelmektedir.
+
+#WAF, web sitesi veya web uygulamalarını nasıl korur?
+https://bit.ly/2YPLUa4
+#CyberSecurity #CyberSec #LoadBalancing #DNS 
+
+
+Çoğu işletme, güvenlik ve performans ister ancak kendi siber güvenlik kaynaklarına sahip değildir.Yüksek maliyetli veya yönetimi zor çözümler yerine özelleştirme gerekmeden çalışan, yeni saldırılar ve güvenlik açıklarını otomatik olarak güncelleyerek engelleyen  NG-WAF çözümü işletmeler için idealdir.
+Ürün ve Hizmetler:
+👉http://www.altosec.com/ngwaf.html
+#CyberSecurity #CyberSec #WAF #DNS #LoadBalancing
+
+Yeni saldırı ve güvenlik açıklarını otomatik olarak güncelleyerek engelleyen ,yüksek maliyetli veya yönetimi zor çözümler yerine özelleştirme gerekmeden çalışan, NG-WAF çözümü işletmeler için idealdir.
+Ürün ve Hizmetler:
+👉http://www.altosec.com/ngwaf.html
+#CyberSecurity #WAF #DNS
+
+
+
+CDN (Content Delivery Network), Türkçesi "içerik dağıtım ağı" olarak bilinir. CDN, bir web sitesine ait statik içeriklerin (sürekli değişmeyen ve çoğunlukla veritabanı bağlantılı olmayan içerikler) ziyaretçiye en yakın CDN sunucusundan verilerek, web sitesi veya web uygulamalarının daha hızlı açılmasını sağlayan, içerik dağıtım sunucularından oluşan bir networkdür.  Statik içeriklerin çoğunlukla, resim, ses ve video içerikler olduğu düşünüldüğünde (en çok yer kaplayan içerikler bu içeriklerdir) web sitesinin yüklenme hızında kayda değer bir artış olduğu gözlenmektedir. 
+
+CDN(Content Delivery Network) Nedir ve Neden Kullanılmalı?
+Web siteleri üzerinde yapılan bir araştırmaya göre, ziyaretçilerin %74'ü  web sitesinin 5 saniye içerisinde yüklenmemesi durumunda, siteden ayrılma eğilimi göstermiştir
+https://bit.ly/2VPFeHa
+
+
+
+
+CDN(Content Delivery Network) Nedir ve Neden Kullanılmalı?
+Web siteleri üzerinde yapılan bir araştırmaya göre, ziyaretçilerin %74'ü  web sitesinin 5 saniye içerisinde yüklenmemesi durumunda, siteden ayrılma eğilimi göstermiştir...
+https://bit.ly/2VPFeHa
+
+
+
+Altosec CDN çözümü ile sınırlı hat kapasitesiniz daha az kullanılır. Son kullanıcı coğrafi olarak en yakın sunucuya bağlanır ve daha hızlı hizmet alır. Web siteniz Google sıralamalarında daha üst sıraya çıkar. CDN’nin sunduğu hızlı yükleme ve daha iyi kullanılabilirlik, web sitenizi kullanıcılarınız ve ziyaretçileriniz için daha çekici hale getirir...
+
+Ürün ve Hizmetler:
+ http://altosec.com/cdn.html
+
+
+
+#CDN çözümü ile sınırlı hat kapasitesiniz daha az kullanılır.  CDN’nin sunduğu, hızlı yükleme ve daha iyi kullanılabilirlik, web sitenizi kullanıcılarınız ve ziyaretçileriniz için daha çekici hale getirir...
+
+
+
+En dikkatli kullanıcıların bile düşebileceği "Kimlik Avı Saldırıları" ve alınması gereken önlemler...
+https://bit.ly/2BDYG2S
+
+Kimlik avı saldırılarından korunmak için kullanılması önerilen "İki faktörlü kimlik doğrulama (#2FA) nedir?"
+http://www.altosec.com/blog-2fa.html
+#CyberSecurity #CyberSec #phishing #cyberattacks
+
+
+Saldırılar büyüdü, tehdit arttı: # hackerlar COVID-19 krizinden yararlanıyor. İşte mevcut küresel saldırı yüzeyi hakkında büyük bir fikir.
+
+Saldırganlar, COVID-19 krizinden yararlanıyor. Büyük işletmelere yönelik siber saldırılar, salgınının getirdiği yeni çalışma koşulları nedeniyle artış gösterdi.
+Büyük işletmelerin, son aylarda bu saldırılardan nasıl etkilendiğine dair veriler, haberin detaylarında...
+https://bit.ly/3f6gFND
+
+
+
+
+WAF'ler gelen taleplerde yer alan düzensizlikleri arar ve hatalı biçimlendirilmiş veya aldatıcı yapıları engeller. WAF, bir sunucu kümesi arasındaki yük dengelemesinden sorumlu değildir. Bazı DDoS saldırı türleri HTTP kullanıyor olsa da, çoğu alt düzey yöntemler kullanır. Bu nedenle, bir WAF sizi HTTP ve FTP uygulama düzeyi / katman 7 DDoS saldırılarına karşı koruyacaktır, ancak diğer stratejiler tarafından gerçekleştirilen saldırılara karşı korumaz.
+
+WAF'lar, 3. ve 4. katmanlarda çalışan geleneksel ağ güvenlik duvarının aksine; OSI modelinin 7. katmanında çalışarak HTTP trafiğinin filtrelenmesi, izlenmesi ve kod çözümlemesi yapabiliyor olmasıdır. IP adresine, bağlantı noktasına ve protokole göre vb. filtreleme işlemleri yapılabilmektedir. WAF, OWASP Top 10 veya CWE Top 25 listesinde yer alan saldırılara karşı denetleme ve engelleme işlemleri yapabilmektedir. WAF kullanımı, Ödeme Kartı Endüstrisi (PCI) Veri Güvenliği Standardı tarafından tavsiye edilmektedir...
+Web Uygulaması Güvenlik Duvarı (WAF) nedir? WAF Türleri ve Avantajları...
+🔗https://bit.ly/3e6Oq01
+
+
+
+Son zamanlarda web sitesi veya web uygulamalarınızın güvenliğini incelediniz mi? Değilse harekete geçmelisiniz! İşletmenize ait verilerin doğru ellerde kalmasını sağlamak için tamamlamanız gereken en az beş güvenlik adımı bulunmakta.
+Web sitesi veya web uygulamalarınızın güvenliğini artırmanın 5 yolu...
+https://bit.ly/320S09E
+
+🔗 #CyberSecurity #CyberSec #WAF  #cyberattacks #f5
+#CyberSecurity #CyberSec  #cyberattacks #DNS #hacking 
+
+Web Güvenlik Duvarları, günümüzde hayati önem taşıyan (online bankacılık, hastane randevu vb.) web site ve uygulamalarını kontrol altında tutan sistemlerdir.
+Altosec’in bulut tabanlı NG-WAF çözümü, web sitenizi ve web uygulamalarınızı her türlü uygulama seviyesi saldırısına karşı korur. Trafik web sunucunuza ulaşmadan filtreleme işlemini gerçekleştirir.
+
+Güvenlik açığı 17 yıldan uzun süredir Microsoft kodunda yer alıyor, fakat bu kritik açık  siber suçluların Windows DNS sunucuları için kötü amaçlı DNS sorguları oluşturmasına ve denetimi ele geçirmesine olanak tanıyacak boyutta. Saldırganın yönetici hakları kazanarak sunucuların denetimini ele geçirmesine ve tüm BT altyapısının güvenliğini aşmasına neden olabilir. Saldırganlar buradan e-postaları ve ağ trafiğini ele geçirebilir ve manipüle edebilir, hizmetleri kullanılamaz hale getirebilir, kullanıcı kimlik bilgilerini toplayabilir ve çok daha fazlasını yapabilir.
+
+Windows DNS zafiyeti, bilgisayar korsanlarının kurumsal sunucuların denetimini ele geçirmesine olanak tanır...
+
+17 yıldan uzun süredir Microsoft kodunda yer alan zafiyet ile saldırganın Windows DNS sunucuları için kötü amaçlı DNS sorguları oluşturmasına ve denetimi ele geçirmesine olanak tanıyacak boyuttadır.
+
+Windows DNS zafiyeti, bilgisayar korsanlarının kurumsal sunucuların denetimini ele geçirmesine olanak tanır...
+
+
+Kurumsal kimliğin ve erişimin sağlanması ancak DNS yapıları ile mümkün olmaktadır. DNS güvenliği çok önemlidir ancak kurumlar tarafından en göz ardı edilen bölümlerdendir. Güvenliği ikinci planda kaldığı için bir çok saldırının da temelini oluşturmuştur.
+
+Yakın zamanda Çinli akademisyenlerden oluşan bir ekibin keşfettiği #RangeAmp saldırısı, web siteleri ve CDN sunucularında sorunlara neden olur!
+https://bit.ly/30vP5TQ
+
+#CyberSecurity #CyberSec  #cyberattacks #CDN #DDoS #hacking 
+2FA öneli bir ek koruma katmanıdır, mümkün olan her yerde ve her zaman kullanılması şarttır.
+https://bit.ly/3fKD1Vx
+
+
+
+2010 yılında BDDK, 2FA kullanımını zorunlu hale getirmiştir. Hatırlanacağı üzere o tarihe kadar hackerlar tarafından sürekli banka hesapları çalınıyor ve banka müşterileri finansal zarara uğrayıp mağdur duruma düşüyorlardı.
+
+İki faktörlü kimlik doğrulama (2FA) nedir? İki faktörlü kimlik doğrulama nasıl çalışır?
+🔗  http://www.altosec.com/blog-2fa.html
+#CyberSecurity #CyberSec  #cyberattacks #hacking #infosec #infosecurity
+
+Web güvenliği ile ilgili ihtiyacı belirleyerek doğru ürün seçimi yapılmalıdır...
+WAF vs IPS vs FW vs Zero day attack
+https://bit.ly/2CQ7we6
+#CyberSecurity  #WAF #IPS #IDS #FW #CyberSec  #cyberattacks #hacking 
+
+2020'nin ilk çeyreğinde DDoS saldırıları, Nexusguard Q1 2020 Tehdit Raporunda yayınlandığı üzere 2019'un ilk çeyreğine göre %278'den fazla, son çeyreğine göre %542'den fazla artış gösterdi. DDoS saldırıları küresel bir risk haline geldi ve siber suçlular COVID-19 krizinden yararlanıyor, ISS'ler güvenlik önlemlerini güçlendirmek zorundadır.
+
+Geleneksel DDoS saldırılarına ek olarak, araştırmacılar çeşitli anormal trafik modelleri tespit etti
+https://bit.ly/2CB4fPY
+
+Olası bir siber saldırı sonucunda yaşanan iş kaybı, prestij zedelenmesi ve ciddi bir veri ihlali söz konusu olduğunda, kamu kurumları ve özel sektör için büyük problemlere neden olur.
+Veri ihlallerinin gerçek maliyeti nedir? Prestij zedelenmesi ve güvenirliği kaybetmek sizi nasıl etkiler?
+🔗https://bit.ly/2ZPQ5mW
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #infosec #infosecurity #cyber #news
+
+En sık kullanılan parola saldırıları ve bunları önlemek için yapabilecekleriniz...
+http://www.altosec.com/blog-parolasaldirilari.html
+#CyberSecurity #CyberSec  #cyberattacks #hacking #infosec #infosecurity
+#PasswordAttacks #DictionaryAttack #BruteForce 
+
+Sahte DNS Güvenliği Yükseltme Dolandırıcılığı WordPress Web Sitelerini Tehdit Ediyor
+DNS kaynaklı saldırılar,  WordPress web sitelerini tehdit ediyor.
+https://ibm.co/39mhz6P
+
+DNS yükseltme saldırıları geçen yıldan bu yana yüzde 1000 arttı
+
+Şifreleme genellikle orta ölçekli kuruluşlar tarafından sahip olmadıkları bir soruna pahalı bir çözüm olarak görülür. Sonuçta, verilerini kim ister? Bununla birlikte, orta ölçekli şirketler siber suçlular tarafından veri için giderek daha fazla hedeflenmektedir. Bir çalışmada , orta ölçekli işletmelerin yüzde 53'ünün, yarısından fazlasının geçen yıl bir veya daha fazla ihlal yaşadığı bulundu.
+
+Şifreleme ve kimlik doğrulama işlemleri, genellikle orta ölçekli kuruluşlar tarafından göz ardı edilir. Sonuçta, verilerini kim ister? Fakat bu yanılsama, orta ölçekli şirketleri siber suçlular tarafından açık hedef haline getirmektedir. Yapılan araştırmaya göre, orta ölçekli işletmelerin yüzde 53'ünün, yarısından fazlasının geçen yıl bir veya daha fazla ihlal yaşadığı tespit edilmiştir.
+https://bit.ly/3f0Ob73
+
+Web sitenizi veya web uygulamalarınızı siber saldırılardan korumanın 3 yöntemi
+🔗 https://bit.ly/3g3hXd1
+#CyberSecurity #CyberSec  #cyberattacks #hacking #WAF #2FA #infosecurity
+
+
+Bulut Tabanlı NG-WAF çözümü, web sitenizi ve web uygulamalarınızı her türlü uygulama seviyesi saldırısına karşı korur. Trafik web sunucunuza ulaşmadan filtreleme işlemini gerçekleştirir.
+http://www.altosec.com/ngwaf.html
+#CyberSecurity #CyberSec #WAF #cyberattacks #hacking #infosecurity
+
+Siber Saldırılara karşı savunmasız olan ülkelerin listesi...
+https://bit.ly/32XxAyV
+#CyberSecurity #countries
+
+FBI, DDoS amplifikasyon saldırıları konusunda uyarıyor! "Önemli kesintilere ve hedefler üzerinde kötü etkiye neden olabilir” uyarısında bulundu.
+https://bit.ly/3f0iZVK
+#CyberSec  #cyberattacks #hacking #infosec #infosecur
+
+DDoS saldırı türlerinden olan, DNS amplifikasyon saldırıları nedir? Nasıl çalışır?
+https://bit.ly/3gbwFhW
+
+Yük dengeleme nedir? #LoadBalancing
+http://www.altosec.com/blog-yukdengeleme.html
+
+
+Siber saldırılar sürekli olarak daha sofistike ve çeşitlilik kazanıyor, bu nedenle yönetilen bir hizmet sağlayıcı (MSP) olarak, müşterilerinizi korumak için doğru savunmaları yerleştirerek yanıt vermeniz gerekiyor
+
+Siber saldırılar her geçen gün çeşitlilik kazanıyor ve daha sofistike bir hal alıyor, bu nedele doğru savunma araçları kullanılarak önlem alınmalı...
+
+Web Uygulaması Güvenlik Duvarına Neden İhtayaç Var?
+https://bit.ly/2XrChxq
+
+Siber Saldırılar yükselişte, yüksek maliyetli kesintiler endişe verici bir hızla artıyor...
+https://bit.ly/3gxTWuB
+#CyberSecurity #CyberSec #cyberattacks #DDoS #hacking #infosecurity
+
+#DNS ele geçirme, DNS tünelleme, kimlik avı, önbellek zehirlenmesi ve #DDoS saldırıları da dahil olmak üzere DNS tehditleri artıyor.
+DNS saldırıları ve alınabilecek önlemler...
+🔗 https://bit.ly/39YubRV
+👉 http://www.altosec.com/dnskoruma.html
+#CyberSecurity #CyberSec #cyberattacks #DDoS #hacking #infosecurity
+
+👉  🔗
+#DDoS saldırıları yeni bir olgu olmasa da her geçen gün artmaktadır. Bu saldırıları gerçekleştirmek ve gizlemek için kullanılan yöntemler de sürekli gelişmektedir...
+Sağı işaret etmek http://altosec.com/ddos.html
+
+#CyberSecurity #CyberSec #cyberattacks #cyber #hacking #infosecurity #WAF #DNS
+
+Bir DDoS saldırısı düzenlemek çok kolay ve düşük maliyetlidir. Saldırganlar çok düşük ücretler karşılığında, sadece hedef adresi girerek DDoS saldırısı gerçekleştirebilmekte ve organizasyon sistemlerini işlevsiz hale getirebilmektedir. 
+
+Bir #DDoS saldırısı düzenlemek çok kolay ve düşük maliyetlidir. Saldırganlar çok düşük ücretler karşılığında, sadece hedef adresi girerek DDoS saldırısı gerçekleştirebilmektedir. DDoS saldırılarına hazırlıksız yakalanan organizasyonlar, saatler ve hatta belki günler boyunca hizmet veremez duruma gelebilmektedir. 
+
+👉 http://www.altosec.com/ddos.html
+
+#CyberSecurity #CyberSec #cyberattacks 
+
+
+Bir #DDoS saldırısı düzenlemek kolay ve düşük maliyetlidir. Saldırganlar çok düşük ücretler karşılığında, sadece hedef adresi girerek DDoS saldırısı gerçekleştire bilmekte ve sistemleri işlevsiz hale getirebilmektedir. 
+👉 http://www.altosec.com/ddos.html
+
+#CyberSecurity #CyberSec #WAF 
+
+Araştırmacılar, 2020'nin ikinci çeyreğinde DDoS saldırılarında büyük bir artış olduğunu bildiriyor
+🔗https://bit.ly/3itH8WH
+#CyberSecurity #CyberSec #cyberattacks #cyber #hacking #infosecurity #WAF #DNS
+
+
+Web sitelerini ve web uygulamalarını hedefleyen saldırıları otomatik olarak algılayan ve engelleyen #DDoS koruması http://www.altosec.com/ddos.html
+
+https://cyberexperts.com/dns-security-best-practices/
+
+En yaygın şekilde kullanılan parola saldırı metodları ve bunların nasıl durdurulacağını öğrenmek ister misiniz?
+ Right pointing backhand index http://altosec.com/blog-parolasaldirilari.html
+
+#PasswordAttacks #DictionaryAttack #BruteForce 
+#CyberSecurity #CyberSec #cyberattacks #hacking
+
+
+
+#DNS ele geçirme, DNS tünelleme, kimlik avı, önbellek zehirlenmesi ve #DDoS saldırıları da dahil olmak üzere DNS tehditleri artıyor. Maalesef, şirketler güvenlik stratejilerini planlarken DNS güvenliğini göz ardı etmektedir.
+🔗 https://bit.ly/30US8GH
+
+#CyberSecurity #CyberSec 
+
+
+
+#DNS, internet trafiğini yönlendirme ve uygulama dağıtımını sağlamak için en önemli araçlardandır, aynı zamanda kritik bir saldırı vektörü olduğu unutulmamalıdır.
+DNS Güvenliğini Gözden Geçirme Zamanı!
+👉 http://www.altosec.com/dnskoruma.html
+#CyberSecurity #CyberSec #cyberattacks #DDoS
+
+
+Load Balancing (Yük Dengeleme) Nedir?
+
+http://www.altosec.com/blog-yukdengeleme.html
+
+#CyberSecurity #CyberSec  #cyberattacks #hacking #WAF
+
+
+
+Her 39 saniyede bir siber saldırı gerçekleşiyor...
+2020 Siber Güvenlik istatistikleri  🔗 https://bit.ly/3h4QWWT
+#CyberSecurity #CyberSec #cyberattacks #hacking #DDoS  #infosecurity
+
+
+Sunucuları #DoS ve #DDoS saldırılarından nasıl koruyabilirim?
+🔗https://bit.ly/31X8IVM
+#CyberSecurity #CyberSec #cyberattacks #WAF #DNS
+
+
+#DDOS saldırıları bir önceki yıla kıyasla üç kat artış gösterdi
+🔗 https://ibm.co/3kUiPDk
+#CyberSecurity #CyberSec #cyberattacks #WAF #DOS
+
+
+
+
+#CDN(Content Delivery Network) nedir? 
+CDN nasıl çalışır?
+Neden CDN kullanılmalı?
+🔗 http://www.altosec.com/blog-CDN.html
+#CyberSecurity #CyberSec #Networking #seo #performance #WAF
+
+Web sitenizi bir #CDN (İçerik Dağıtım Ağı) kullanacak şekilde yapılandırmak, hızınızı artırırken aynı anda kaynak kullanımınızı düşürmenin en iyi yoludur.
+👉 http://www.altosec.com/cdn.html
+#CyberSecurity #CyberSec #Networking #seo #performance #WAF
+
+
+Siber Güvenliğin Önemi?
+🔗 https://bit.ly/32bG03E
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #infosecurity 
+
+
+
+En çok kullanılan 8 siber saldırı türüne karşı #WAF nasıl koruma sağlar? (#DDoS, #XSS, #SqlInjection ...)
+https://bit.ly/31oxFKU
+#CyberSecurity #CyberSec #cyberattacks #hacking #infosecurity
+
+
+#DDoS saldırısı nedir ve saldırının etkileri nelerdir?
+🔗 https://ibm.co/3hn5Bgi
+DDoS Saldırıları Nasıl Engellenir?
+👉 http://www.altosec.com/ddos.html
+#CyberSecurity #CyberSec #CyberAttackers #technology #DOS #bot 
+
+
+#DNS nedir?
+🔗 https://bit.ly/3aYMBTa
+DNS'in nasıl çalıştığına dair eğlenceli bir anlatım
+🔗 https://howdns.works/
+DNS güvenliği için
+👉 http://www.altosec.com/dnskoruma.html
+
+#CyberSecurity #CyberSec #cyberattacks #technology #DDoS #DOS
+
+
+
+Web uygulamalarının yüzde 94'ü önem derecesi yüksek güvenlik açıklarından zarar görüyor
+https://ibm.co/3aVgxiK
+#CyberSecurity #CyberSec #cyberattacks #technology #WAF #XSS #SqlInjection #DOS
+
+#CDN (Content Delivery Network / İçerik Dağıtım Ağı) Nedir?
+Neden CDN Kullanılmalı?
+🔗  http://www.altosec.com/blog-CDN.html
+#CyberSecurity #CyberSec #Networking #seo #performance #WAF
+
+
+Yanlış bilinen siber güvenlik efsaneleri ve gerçekler
+https://bit.ly/3hD9UEo
+#CyberSecurity #CyberSec #cyberattacks #technology #hacking #infosecurity
+
+
+
+Tüketiciler, 2FA kullanan şirketleri güvenilir ve güvenli olarak görüyor...
+Mükemmel şifre - iki faktörlü kimlik doğrulama
+https://bit.ly/3jny7ij
+
+Siber tehdit tespiti ve önlenmesinde mücadeleye öncülük eden dört temel strateji...
+🔗 https://bit.ly/3lnoimx
+#CyberSecurity #CyberSec #cyberattacks #WAF #NGWAF #MachineLearning #technology #hacking #infosecurity 
+
+En yaygın şekilde kullanılan parola saldırı metodları ve bunların nasıl durdurulacağını öğrenmek ister misiniz?
+🔗 http://altosec.com/blog-parolasaldirilari.html
+
+#CyberSecurity #CyberSec #cyberattacks #hacking  #PasswordAttacks #DictionaryAttack #BruteForce
+
+
+2021'de Siber Güvenlik
+Hazırlan, farkında ol, müdahale et...
+🔗 https://bit.ly/3jrSknl
+
+#CyberSecurity #CyberSec #cyberattacks #technology #hacking #infosecurity #DDoS #zeroDay #Deepfake
+
+
+WAF, uygulama katmanı saldırılarını önlemenin ve bir web sunucusundaki olası güvenlik açıklarını izlemenin harika bir yoludur...
+https://bit.ly/2QELDlD
+
+#CyberSecurity #CyberSec #cyberattacks #WAF #NGWAF #technology #DDoS
+
+
+
+Yanlış bilgilendirilmiş kullanıcılar, bir WAF uygulamasında kuralları bir kez oluşturmak suretiyle güvenliği sağlayacağına inanır ve onu yalnız bırakır.
+Bir WAF; yalnızca yapılandırmaları kadar güçlüdür, doğru bir şekilde güncellenmesi ve izlenmesi gerekir. Etkili bir savunma için WAF'lar ihmal edilmemelidir.
+
+Kullanıcılar, bir #WAF uygulamasında kuralları bir kez oluşturmak suretiyle güvenliği sağlayacağına inanır ve onu yalnız bırakır. Bir WAF; doğru yapılandırmalar ile güçlüdür, doğru bir şekilde güncellenmesi ve izlenmesi gerekir.
+👉 http://www.altosec.com/ngwaf.html
+#CyberSecurity #CyberSec 
+
+
+
+2020 için siber güvenlik verileri
+🔗https://bit.ly/3jBSokn
+
+#CyberSecurity #CyberSec #cyberattacks #technology
+ #hacking #infosecurity #XSS #SqlInjection #DOS #DDoS
+
+
+#AI tabanlı #DDoS saldırıları..
+🔗 https://bit.ly/2QRqPao
+
+DDoS Koruması ve Risk Azaltma
+👉 http://www.altosec.com/ddos.html
+
+#CyberSecurity #CyberSec #cyberattacks #DOS #technology #Networking #hacking #infosecurity
+
+
+
+
+Web Uygulamalarınız Sandığınızdan Daha Savunmasız
+Şirketler Web Uygulamalarını Nasıl Koruyabilir?
+https://ibm.co/32Tx8A8
+
+#CyberSecurity #CyberSec #cyberattacks #technology #WAF #XSS #SqlInjection #DDoS #DOS #hacking #infosecurity
+
+
+#DDoS saldırıları geçen yılın ikinci çeyreğine göre üç kat artış gösterdi (%217 arttı) 
+🔗  https://bit.ly/2F81Tce
+DDoS Saldırıları Nasıl Engellenir?
+👉 http://www.altosec.com/ddos.html
+#CyberSecurity #CyberSec #cyberattacks #WAF #NGWAF #technology #Networking
+
+
+Daha akıllı bir web uygulaması güvenlik duvarı çözümü, müşterilerinize daha güçlü güvenlik sağlamanın yanı sıra hayatınızı kolaylaştırabilir.
+🔗 https://bit.ly/3bDa50b
+#CyberSecurity #CyberSec #cyberattacks #WAF #NGWAF #MachineLearning #technology #DDoS
+
+
+Web Uygulaması Güvenlik Duvarları Neden Önemlidir?
+🔗 https://bit.ly/33cjXuc
+#CyberSecurity #CyberSec #cyberattacks #WAF #NGWAF #MachineLearning #technology #DDoS
+
+
+#MFA- #2FA önemli bir ek koruma katmanıdır, mümkün olan her yerde ve her zaman kullanılması şarttır.
+🔗 https://bit.ly/3fKD1Vx
+#CyberSecurity #CyberSec #cyberattacks  #phishing #cyberattacks #technology #hacking #infosecurity 
+
+
+Yük dengeleme nedir ve nasıl çalışır? #LoadBalancing
+🔗http://www.altosec.com/blog-yukdengeleme.html
+🔗 https://bit.ly/3hrlJNe
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #WAF #DDoS
+
+
+Yayınlanan rapora göre web uygulamalarının yüzde 44'ü veri sızıntısı ve güvenlik sorunlarına karşı savunmasız durumda.
+https://ibm.co/2GRuHGI
+#CyberSecurity #CyberSec #cyberattacks #websecurity #technology #WAF #XSS #SqlInjection #DDoS #DOS #hacking #infosecurity 
+
+En Önemli Beş #DNS Tehdidine Karşı Hazır Olun! #DDoS # DOS #Typosquatting #CachePoisoning
+https://bit.ly/3mm4z73
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking 
+
+COVID-19'un siber tehditler ve sektördeki web trafiği üzerindeki etkisi devam ediyor...
+https://bit.ly/2RLuaby
+#CyberSecurity #CyberSec #cyberattacks #DDoS #technology #Networking #DNS #WAF 
+
+2019'da en sık görülen güvenlik açıkları...
+ Yazılım İstismarlarına Yönelik Ayrıntılı Teknik İnceleme
+https://bit.ly/3iRaFu4
+
+
+Siber Saldırılar Neden 1 Numaralı Risk
+🔗 https://bit.ly/2RXcXff
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #WAF #DDoS
+
+
+#DNS ile ilgili güvenlik sorunları ve DNS saldırıları nelerdir?
+https://bit.ly/2G7RfTq
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF #DDoS #DOS
+
+
+#CDN(Content Delivery Network) Nedir ve Neden Kullanılmalı? 
+🔗 http://altosec.com/blog-CDN.html
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #WAF #DDoS #LoadBalancing
+
+
+DDoS Saldırıları 2020'de 1 Tb / sn'ye ulaştı
+https://bit.ly/34njA0z
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #WAF #DDoS #LoadBalancing
+
+
+Tek faktörlü kimlik doğrulama (parola) kullanıcılar için kolaydır, ancak sistemi çok çeşitli siber saldırılara karşı savunmasız hale getirir.
+🔗 https://bit.ly/30kf8hK
+# 2FA #CyberSecurity #CyberSec #cyberattacks #technology #hacking #infosecurity
+
+Gerçek zamanlı uçuş izleme sitesi Flightradar24, hizmetlerine saatlerce erişimi engelleyen bir siber saldırıya uğradı. #DDoS
+🔗 https://bbc.in/3jjamZb
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #WAF #DDoS #LoadBalancing
+
+#DDoS saldırısı nedir ve saldırının etkileri nelerdir?
+Bağlantı sembolü https: // ibm.co/3hn5Bgi 
+DDoS saldırıları nasıl engellenir?
+ http: // altosec.com/ddos.html 
+#CyberSecurity #CyberSec #CyberAttackers #teknoloji #DOS #bot #DOS
+
+
+
+#DDoS saldırısı, en güçlü internet silahlarından biridir... 
+ 🔗 https://bit.ly/3iH94X2
+
+#CyberSecurity #CyberSec #cyberattacks #technology #dos #botnet #Networking #DNS #WAF  #LoadBalancing
+
+
+
+Siber suçlular, pandemi döneminde doruk noktasına ulaşan uzaktan erişim olgusuna hızlı ayak uydurdu. ‘Kaba Kuvvet – #BruteForce‘ saldırılarında ciddi artış söz konusu... #2FA #MFA
+ 🔗 https://bit.ly/34TWjTY
+#CyberSecurity #CyberSec #cyberattacks #technology #WAF #hacking
+
+
+
+Kimlik avı saldırılarını önlemek için alınabilecek önlemler... #WAF #phishingAttacks
+https://bit.ly/3dpofTC
+#CyberSecurity #CyberSec #cyberattacks #technology #hacking #infosecurity #ddos
+
+
+Siber saldırıların nasıl önleneceğine dair bazı önemli ipuçları... #WAF
+https://bit.ly/347vkFz
+#CyberSecurity #CyberSec #cyberattacks #firewall #technology #hacking #infosecurity #ddos
+
+Web Uygulaması Güvenlik Duvarı (#WAF), siber güvenliğin önemli bir parçasıdır. WAF'ın nasıl çalıştığı, türleri ve avantajları hakkında bilgi için yazımızı inceleyiniz
+http://www.altosec.com/blog-waf.html
+#CyberSecurity #CyberSec #cyberattacks #technology #dos #botnet #Networking #DNS #WAF  #LoadBalancing
+
+
+
+KURULUŞLARA YÖNELİK YAYGIN GÜVENLİK TEHDİT TÜRLERİ
+
+Kurum ve kuruluşlara yönelik en yaygın kullanılan güvenlik tehditleri nelerdir?
+🔗https://bit.ly/34kZ6GK
+
+#CyberSecurity #CyberSec #cyberattacks #WAF #DDoS #Dos #phishing #ZeroDayAttack #PasswordAttacks #Deepfake #technology #hacking #infosecurity 
+
+
+
+Uygulamalarınızın güvenlik duruşunu desteklemenin en iyi yollarına bir göz atıyoruz
+
+
+
+Web sitesi veya web uygulamalarının güvenliğini desteklemenin en iyi yolları... #WAF #bot
+
+🔗 https://bit.ly/35uoxoA
+#CyberSecurity #CyberSec #cyberattacks #technology #dos #botnet #Networking #DNS #LoadBalancing
+
+
+Web uygulaması güvenlik duvarı neden kullanılmalı? #WAF
+
+🔗 https://bit.ly/37TnZM5
+#CyberSecurity #CyberSec #cyberattacks #technology #dos #DDoS #botnet #Networking #DNS #LoadBalancing
+
+
+
+Bir veri ihlali meydana geldiğinde şirketinizin karşılaşabileceği büyük cezalardan kaçınmak için, tüm olası veri güvenliği açıklarını kapatmanız gerekir. Veri ihlallerini önlemenin yolları... #WAF #dataBreach
+
+🔗https://bit.ly/2G9MIA2
+#CyberSecurity #CyberSec #cyberattacks #technology #hacking #infosecurity #ddos
+
+
+
+2FA ve MFA ile Hesaplarınızı Korumak Daha Kolay... #2FA #MFA
+https://bit.ly/2THDcHJ
+
+🔗
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #PasswordAttacks #infosecurity #WAF #DNS #DDoS 
+
+
+
+
+Siber güvenlik tehditleri ve Web Uygulaması Güvenlik Duvarı (#WAF) bu tehditlere karşı nasıl koruma sağlar?
+#phishingAttacks #Ransomware #DDoS #botnet
+
+https://bit.ly/2TyRWZr
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #LoadBalancing
+
+
+
+
+
+Web uygulaması güvenlik duvarı (#WAF) nedir? 
+Nasıl çalışır? 
+WAF kullanmanın avantajları nelerdir?
+
+https://bit.ly/32EzdjX
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #DNS #LoadBalancing
+
+
+
+Yeni keşif, #DNS önbellek zehirlenmesi saldırılarının yeniden canlanmasına yol açabiCDN(Content Delivery Network) Nedir ve Neden Kullanılmalı?
+Web siteleri üzerinde yapılan bir araştırmaya göre, ziyaretçilerin %74'ü  web sitesinin 5 saniye içerisinde yüklenmemesi durumunda, siteden ayrılma eğilimi göstermiştir
+https://bit.ly/2VPFeHalecek kritik güvenlik açıkları...	
+https://bit.ly/35rpAqD
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF #LoadBalancing
+
+
+
+
+
+🔗
+
+Web Sitesi Güvenlik Açığı ve Kötü Amaçlı Yazılım - Aralarındaki Fark Nedir?
+
+http://www.altosec.com/blog-webguvenligi.html
+
+#CyberSecurity #CyberSec #cyberattacks #WAF #DDoS #Dos #phishing #ZeroDayAttack #PasswordAttacks
+
+
+
+
+
+Siber güvenliğin; kamu kurumları, şirketler ve organizasyonlar için önemi...
+
+
+Web Uygulaması Güvenlik Duvarı (WAF) Nedir ve Neden İhtiyacınız Var?
+
+🔗https://bit.ly/2KLhLEx
+
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF #LoadBalancing
+
+Web siteleri üzerinde yapılan bir araştırmaya göre, ziyaretçilerin %74'ü  web sitesinin 5 saniye içerisinde yüklenmemesi durumunda, siteden ayrılma eğilimi göstermiştir...
+
+#CDN Nedir?
+🔗 http://www.altosec.com/blog-CDN.html
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF 
+
+
+Web siteleri üzerinde yapılan bir araştırmaya göre, ziyaretçilerin %74'ü  web sitesinin 5 saniye içerisinde yüklenmemesi durumunda, siteden ayrılma eğilimi göstermiştir.
+
+#CDN nedir ve neden kullanılmalı?
+🔗 http://www.altosec.com/blog-CDN.html
+
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF 
+
+
+
+Siber güvenlik uzmanlarının yüzde 78'i önümüzdeki aylarda #DNS ile ilgili güvenlik tehditlerinde ciddi bir artış bekliyor...
+https://bit.ly/3na2NWT
+#CyberSecurity #CyberSec #cyberattacks #technology #Networking #WAF #LoadBalancing
+
+
+
+
+Tahmine Dayalı Analitik Modeli ve #WAF, Daha İyi Siber Güvenliğin Anahtarıdır!
+
+🔗 https://bit.ly/34ad11S
+
+#CyberSec #cyberattacks #technology #Networking #NGWAF #DDoS
+
+
+
+
+
+2FA ve MFA ile Hesaplarınızı Korumak Daha Kolay... 
+#2FA #MFA bit.ly/3n1Ofs2
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #PasswordAttacks #infosecurity #WAF #DNS #DDoS
+
+
+
+
+
+En Yaygın Siber Saldırı Türleri...
+https://bit.ly/38z2pex
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #PasswordAttacks #infosecurity #WAF #DNS #DDoS
+
+
+
+
+En sık kullanılan parola saldırıları ve bunları önlemek için yapabilecekleriniz:
+https://bit.ly/3pmiISs
+
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #PasswordAttacks #infosecurity #WAF #DNS #DDoS
+
+DNS Saldırı Türleri ve Alınabilecek Önlemler...
+https://bit.ly/3rtTD9Z
+
+#CyberSecurity #CyberSec #cyberattacks #hacking #infosecurity #WAF #DDoS
+
+
+SYN Attack nedir ve nasıl çalışır?
+SYN Saldırısı Nasıl Önlenir?
+https://bit.ly/3rrhuaq
+
+#CyberSecurity #CyberSec #cyberattacks #WAF #DNS #DDoS #DOS #SynAttack
+
+
+
+
+
+
+
